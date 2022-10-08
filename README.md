@@ -4,7 +4,7 @@ Documentation and Tutorials for [pysodb](https://github.com/TencentAILabHealthca
 ## dev
 ```
 # env 
-pip install -r requirements
+pip install -r requirements.txt
 
 # run
 sphinx-autobuild docs build/html
